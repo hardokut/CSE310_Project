@@ -5,3 +5,7 @@ to share publicly such as API keys, some passwords etc.
 
 Q.2) What does the git add command do?
 git add command is used for adding changes from working directory to staging area.
+
+Q.3) What does the git pull command do? 
+The git pull command is preceded by git fetch, which retrieves content from a remote repository. 
+The remote content refs are then merged using git merge, which results in a new local merge commit.
