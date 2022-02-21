@@ -13,3 +13,6 @@ The remote content refs are then merged using git merge, which results in a new 
 Q.4) What does the git clone command do?
 We get the repository from  someone's remote repository to our local repository.
 
+- All the questions have been answered by 12:20
+
+
