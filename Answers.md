@@ -1,4 +1,4 @@
-# IoT Lab 1 
+# Answers
 
 
 ## Q.1) What is the purpose of gitignore file? 
